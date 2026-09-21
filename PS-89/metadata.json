@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix PS",
+  "description": "Remix Cooperative Workforce Platform featuring artisan verification, automated allotment, real-time service tracking, and secure account management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
